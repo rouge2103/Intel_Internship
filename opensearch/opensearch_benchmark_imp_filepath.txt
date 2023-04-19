@@ -1,0 +1,10 @@
+base dir - ~/.benchmark/benchmarks
+
+Workload data dir - workloads/data/<workload>
+
+Logs - logs/benchmark.log
+All default workloads - workloads/default
+Test procedures definition - workloads/default/<workload>/test_procedures/default.json
+Data defining file - workloads/default/<workload>/index.json
+Operations details (The queries to be run by the benchmark) - workloads/default/<workload>/operations/default.json
+READMe - Readme.md (Tuning parameters)
